@@ -1,5 +1,5 @@
 <h4 align="center">Projeto myGames</h4>
-<h3>Objetivo do projeto é prática de conceitos
+<h5 align="center">Objetivo do projeto é prática de conceitos
 
 <img src="./GAMES1.png" align="center" height="200px"/>
 
